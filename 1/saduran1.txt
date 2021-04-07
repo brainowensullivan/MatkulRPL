@@ -6,3 +6,4 @@ hasil saya menyadur :
 1. tugas membuat github dan membuat repositori
 2. menjelaskan tentang kuliah analisa dan perancangan PL
 3. membuat kelompok 3 orang dalam 1 kelompok
+<img src="ss1.png">
